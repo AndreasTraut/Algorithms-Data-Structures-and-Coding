@@ -66,7 +66,23 @@ Another example from LeetCode: the [Sort-Colors](https://leetcode.com/problems/s
 
 ## II. Examples
 
-In the *second part* I will work on some interesting examples, which will be available as `.py` Files.
+In the *second part* I will work on some interesting examples, which will be available as `.py` Python-Files or will be Tools like Excel/VBA or Access.
+
+### 1. Python-Examples 
+
+I already provided a lot of Jupyter-Notebooks in Python but will provide further `.py` Pyhton-Files here in short time. 
+
+### 2. Excel Example
+
+During my career I implemented a lot of Excel/VBA solutions: one was a Excel/VBA project management tool, which organized and structured a complex project flow of a team of 7 people. My Excel/VBA solution is used on a daily basis and is running for already 2 years now. 
+
+I won't be able to mention all the other Excel/VBA which I built or worked on. But I will provide an example of an Excel/VBA solution in short time here. 
+
+### 3. Access-Example
+
+During my career I also worked with Access solutions. One was for a team of 20 people who were working simultaneously with their Access-frontends on one Access-backend. The aim was to assure a structured data-entry of the whole team into the Access backend database by using Access-Forms. At the end of the project the filled database tables had been joined with SQL queries to further databases in order to aggregate a very specific result table. 
+
+I also worked on other Access solutions and will provide an example of an Access solution in short time here. 
 
 
 
@@ -78,6 +94,7 @@ In the *second part* I will work on some interesting examples, which will be ava
                         https://opensource.org/licenses/mit-license.php
 
  
+
 
 Copyright (c) 2021 Andras Traut
 
