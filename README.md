@@ -98,7 +98,7 @@ Let's have a short look into the VBA code:
 
 You can download this example from my repository: 
 
-https://github.com/AndreasTraut/Algorithms-Data-Structures-and-Coding/Excel_Example
+https://github.com/AndreasTraut/Algorithms-Data-Structures-and-Coding/tree/main/Excel_Example
 
 ### 3. Access-Example
 
@@ -116,6 +116,7 @@ I also worked on other Access solutions and will provide an example of an Access
                         https://opensource.org/licenses/mit-license.php
 
  
+
 
 
 
