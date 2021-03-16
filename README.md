@@ -70,7 +70,7 @@ In the *second part* I will work on some interesting examples, which will be ava
 
 ### 1. Python-Examples 
 
-I solved several problems, which require algorithmic thinking (e.g. recursion) or knowledge about data-structures (e.g. casses) and share my solutions as `.py` Pyhton-Files here. These problems are for example: 
+I solved several problems, which require algorithmic thinking (e.g. recursion) or knowledge about data-structures (e.g. casses) and I shared my solutions as `.py` Pyhton-Files here. These problems are for example: 
 
 - Find the K nearest points to the origin, given some points in the plane. 
 
@@ -130,6 +130,7 @@ I also worked on other Access solutions and will provide an example of an Access
                         https://opensource.org/licenses/mit-license.php
 
  
+
 
 
 
