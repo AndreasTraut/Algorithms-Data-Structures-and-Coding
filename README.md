@@ -76,9 +76,14 @@ I solved several problems, which require algorithmic thinking (e.g. recursion) o
 
 - Sort the list of color-codes.
 
-- Calculate the delay time for a signal, which is send over a network graph.
+- Calculate the delay time which is necessary to send a signal from the source "zero" to all other nodes in a network graph (a directed, weighted graph):
 
   ![](./media/networkgraph.png)
+  
+- A "Rucksack/Knapsack" problem: imagine, that you have a limited amount of money (capacity=2000 Euros) and you have the choice between several devices, each having it's own cost (mobile phone: 630 Euros, smartwatch: 780 Euros, computer: 1400 Euros, tablet: 480 Euros). Assume, that you have assigned to each of these devices an "individual profit" (the value, which this device creates for you). Which devices should you buy in order to maximize your profit? What would be the best choice? 
+  ![](./media/Rucksack_knapsack_.png)
+
+  
 
 Each time I will build some test-cases before going into the solution and also use the Jovian "evaluate_test_cases" module to efficiently perform the tests.
 
@@ -90,7 +95,7 @@ https://github.com/AndreasTraut/Algorithms-Data-Structures-and-Coding/tree/main/
 
 During my career I implemented a lot of Excel/VBA solutions: one was a Excel/VBA project management tool, which organized and structured a complex project flow of a team of 7 people. My Excel/VBA solution is used on a daily basis and is running for already 2 years now. 
 
-I won't be able to mention all the other Excel/VBA which I built or worked on and I also won't be able to share my Excel/VBA tools here, which I implemented at different companies due to copy-right restrictions. But I will provide an example of an Excel/VBA solution, which solves the following order tracking problem: assume, that you are responsible for different clients, which order different items from you. Each time they do, you would have to send requests to your suppliers (see "1" in the screenshot below) . After having received the items from your supplier you will do an internal quality check (see "2" in the screenshot below) and then send the items to your client (see "3" in the screnshot below). You and your team colleagues may want to track all the different items and also the cases, when something went wrong (item not yet received, item did not pass the quality check,...). 
+I won't be able to mention all the other Excel/VBA which I built or worked on and I also won't be able to share my Excel/VBA tools here, which I implemented at different companies due to copy-right restrictions. But I will provide an example of an Excel/VBA solution, which solves the following order tracking problem: assume, that you are responsible for different clients, which order different items from you. Each time they do, you would have to send requests to your suppliers (see "1" in the screenshot below) . After having received the items from your supplier you will do an internal quality check (see "2" in the screenshot below) and then send the items to your client (see "3" in the screenshot below). You and your team colleagues may want to track all the different items and also the cases, when something went wrong (item not yet received, item did not pass the quality check,...). 
 
 The first step is to define the three steps ("1. Basket Items", "2. Quality Check", "3. Delivery") and assure in the tab "configuration" that the predefined dropdown cells and color codes, are always **clear**. Like this your will get **consistency in your processes and data**. Changing the color codes or status description here will automatically update the whole Excel/VBA solution and therefore you will always have consistency. 
 
@@ -130,6 +135,8 @@ I also worked on other Access solutions and will provide an example of an Access
                         https://opensource.org/licenses/mit-license.php
 
  
+
+
 
 
 

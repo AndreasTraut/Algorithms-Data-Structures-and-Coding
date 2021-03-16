@@ -19,7 +19,7 @@ Input
 Output
 1. network-delay-time, e.g. 2
 
-Solution: 
+Solution: "Depth-first search algorithm"
 1. Create a class for the weighted, directed graph based on the num_nodes 
     and edges information.
 2. Start at the source node. Implement the Depth-first search algorithm: 
