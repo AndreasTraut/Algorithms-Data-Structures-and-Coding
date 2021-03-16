@@ -11,7 +11,7 @@ Date: 22.02.2021
 
 ### a) Aim of this repository
 
-The aim of this repository is to improve coding skills and enhance skills in algorithmic thinking and data structures. 
+The aim of this repository is to share my coding skills, knowledge in data-structures (e.g. classes), abilities in algorithmic thinking (e.g. recursion) and tool-building skills (e.g. Excel/VBA tools). At the same time I will give you lots of hints and solution templates, which will help you to enhance your skills in these topics as well. 
 
 ### b) Motivation for this repository
 
@@ -39,19 +39,19 @@ In the *second part* I will work on some interesting examples.
 
 ### 1. Earn a certificate
 
-A good way for improving your coding skills are by going through some online courses and trying to earn a certificate. There are a lot of other ressources: maybe start getting an overview on [Coursera](https://www.coursera.org/). These courses are nice because the teachers are usually highly skilled (from universities) and the technical infrastructure for the courses is rather advanced: there are videos with subtitles and transcript and you can easily navigate through these videos by reading across these transcipts and jumping to the positions in the video, which you want to listen to. You can monitor your learning curve and weekly progress. But the Coursera certificates usually cost some money. 
+A good way for improving your coding skills are by going through some online courses and trying to earn a certificate. There are a lot of other resources: maybe start getting an overview on [Coursera](https://www.coursera.org/). These courses are nice because the teachers are usually highly skilled (from universities) and the technical infrastructure for the courses is rather advanced: there are videos with subtitles and transcript and you can easily navigate through these videos by reading across these transcripts and jumping to the positions in the video, which you want to listen to. You can monitor your learning curve and weekly progress. But the Coursera certificates usually cost some money. 
 
-If you want to find something cheaper, then I can recommend the ["Data Structures and Algorithms in Python"](https://jovian.ai/learn/data-structures-and-algorithms-in-python) from Jovian. When I worked for it in 02/2021 is was for free. It uses Jupyter-Notebooks and is definitively a lot of fun! You will learn in video tutorials and practise with well documented Jupyter-Notebooks how to work with python classes, binary trees, sorting algorithms and undertand how to solve coding problems systematecally. 
+If you want to find something cheaper, then I can recommend the ["Data Structures and Algorithms in Python"](https://jovian.ai/learn/data-structures-and-algorithms-in-python) from Jovian. When I worked for it in 02/2021 is was for free. It uses Jupyter-Notebooks and is definitively a lot of fun! You will learn in video tutorials and practice with well documented Jupyter-Notebooks how to work with python classes, binary trees, sorting algorithms and understand how to solve coding problems systematically. 
 
-There are various other ressources for earning a certificate and listing up, what I found is not very helpful at the end for you: try to find **the certificate which YOU want to earn!** I promise: working for it is a lot of fun. 
+There are various other resources for earning a certificate and listing up, what I found is not very helpful at the end for you: try to find **the certificate which YOU want to earn!** I promise: working for it is a lot of fun. 
 
 ### 2. Get into coding challenges
 
-Another advice I can give you is to get into coding challenges. When you accept a coding challenge, then a problem will be shown and would have to solve it in your preferred programming language (python, java, C++,...). I tried [LeetCode](https://leetcode.com/) and you will find a lot of other websites, which provide similar concepts. On the left is the problem, on the right some place to programm a solution:   
+Another advice I can give you is to get into coding challenges. When you accept a coding challenge, then a problem will be shown and would have to solve it in your preferred programming language (python, java, C++,...). I tried [LeetCode](https://leetcode.com/) and you will find a lot of other websites, which provide similar concepts. On the left is the problem, on the right some place to program a solution:   
 
 ![](./media/K_Closest_Neighbour_LeetCode.jpg)
 
-As I am not allowed to publish solutions for these LeetCode problems I had to black out my solutions. Some of these problems were quiet interesting for me so I wanted to have them in my integrated development environment (IDE) [Spyder-IDE](https://www.spyder-ide.org/) in order to debug through the code and extend the examples a bit. I recommend to do use an integrated development environment (IDE) as often as you can, instead of always going through Jupyter Notebooks. In my opinion Jupyter Notebooks are **not** always the best environment for learning to code! I agree, that Jupyter Notebooks are nice for doing documentation of python code. It really looks beautiful. But I prefer debugging in an IDE instead of a Jupyter Notebook: having the possibility to set a breakpoint can be a pleasure for my nerves, specially if you have longer programms. Some of my longer Jupyter Notebooks feel from the hundrets line of code onwards more like pain than like anything helpful. And I also prefer having a "help window" or a "variable explorer", which is smoothly integrated into the IDE user interface. And there are a lot more advantages why getting familiar with an IDE is a big advantage compared to the very popular Jupyter Notebooks! I am very surprised, that everyone is talking about Jupyter Notebooks but IDEs are only mentionned very seldomly. But maybe my preferences are also a bit different, because I grew up in a [MS-DOS](https://de.wikipedia.org/wiki/MS-DOS) environment. :-) 
+As I am not allowed to publish solutions for these LeetCode problems I had to black out my solutions. Some of these problems were quiet interesting for me so I wanted to have them in my integrated development environment (IDE) [Spyder-IDE](https://www.spyder-ide.org/) in order to debug through the code and extend the examples a bit. I recommend to use an integrated development environment (IDE) as often as you can, instead of always going through Jupyter Notebooks. In my opinion Jupyter Notebooks are **not** always the best environment for learning to code! I agree, that Jupyter Notebooks are nice for doing documentation of python code. It really looks beautiful. But I prefer debugging in an IDE instead of a Jupyter Notebook: having the possibility to set a breakpoint can be a pleasure for my nerves, specially if you have longer programs. Some of my longer Jupyter Notebooks feel from the hundreds line of code onwards more like pain than like anything helpful. And I also prefer having a "help window" or a "variable explorer", which is smoothly integrated into the IDE user interface. And there are a lot more advantages why getting familiar with an IDE is a big advantage compared to the very popular Jupyter Notebooks! I am very surprised, that everyone is talking about Jupyter Notebooks but IDEs are only mentioned very seldom. But maybe my preferences are also a bit different, because I grew up in a [MS-DOS](https://de.wikipedia.org/wiki/MS-DOS) environment. :-) 
 
 Here is how the problem from above looks like in the Spyder-IDE: 
 
@@ -66,11 +66,25 @@ Another example from LeetCode: the [Sort-Colors](https://leetcode.com/problems/s
 
 ## II. Examples
 
-In the *second part* I will work on some interesting examples, which will be available as `.py` Python-Files or will be Tools like Excel/VBA or Access.
+In the *second part* I will work on some interesting examples, which will be available as `.py` Python-Files, Jupyter-Notebooks or will be Tools like Excel/VBA or Access.
 
 ### 1. Python-Examples 
 
-I already provided a lot of Jupyter-Notebooks in Python but will provide further `.py` Pyhton-Files here in short time. 
+I solved several problems, which require algorithmic thinking (e.g. recursion) or knowledge about data-structures (e.g. casses) and share my solutions as `.py` Pyhton-Files here. These problems are for example: 
+
+- Find the K nearest points to the origin, given some points in the plane. 
+
+- Sort the list of color-codes.
+
+- Calculate the delay time for a signal, which is send over a network graph.
+
+  ![](./media/networkgraph.png)
+
+Each time I will build some test-cases before going into the solution and also use the Jovian "evaluate_test_cases" module to efficiently perform the tests.
+
+You can download this examples from my repository: 
+
+https://github.com/AndreasTraut/Algorithms-Data-Structures-and-Coding/tree/main/Python_Examples
 
 ### 2. Excel Example
 
@@ -116,6 +130,7 @@ I also worked on other Access solutions and will provide an example of an Access
                         https://opensource.org/licenses/mit-license.php
 
  
+
 
 
 
