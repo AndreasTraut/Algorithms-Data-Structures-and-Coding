@@ -41,9 +41,15 @@ In the *second part* I will work on some interesting examples.
 
 A good way for improving your coding skills are by going through some online courses and trying to earn a certificate. There are a lot of other resources: maybe start getting an overview on [Coursera](https://www.coursera.org/). These courses are nice because the teachers are usually highly skilled (from universities) and the technical infrastructure for the courses is rather advanced: there are videos with subtitles and transcript and you can easily navigate through these videos by reading across these transcripts and jumping to the positions in the video, which you want to listen to. You can monitor your learning curve and weekly progress. But the Coursera certificates usually cost some money. 
 
-If you want to find something cheaper, then I can recommend the ["Data Structures and Algorithms in Python"](https://jovian.ai/learn/data-structures-and-algorithms-in-python) from Jovian. When I worked for it in 02/2021 is was for free. It uses Jupyter-Notebooks and is definitively a lot of fun! You will learn in video tutorials and practice with well documented Jupyter-Notebooks how to work with python classes, binary trees, sorting algorithms and understand how to solve coding problems systematically. 
+If you want to find something cheaper, then I can recommend the ["Data Structures and Algorithms in Python"](https://jovian.ai/learn/data-structures-and-algorithms-in-python) from Jovian. When I worked for it in 02/2021 is was for free. It uses Jupyter-Notebooks and is definitively a lot of fun! You will learn in video tutorials and practice with well documented Jupyter-Notebooks how to work with python to solve coding problems systematically. 
+
+I am holding the *Certificate "Data Structures and Algorithms in Python* (see [here](https://jovian.ai/certificate/MFQTINRVG4)) which covers important data structures and algorithms like [binary trees](https://en.wikipedia.org/wiki/Binary_tree), [recursion](https://en.wikipedia.org/wiki/Recursion), [directed graphs](https://en.wikipedia.org/wiki/Directed_graph) and the [knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem). I think knowing about these topics is very important, because a high performance cluster can solve your problem only sometimes: often a good data structure and algorithm will be a lot more powerful than any hardware solution. 
 
 There are various other resources for earning a certificate and listing up, what I found is not very helpful at the end for you: try to find **the certificate which YOU want to earn!** I promise: working for it is a lot of fun. 
+
+![Certificate Data Structures and Algorithms in Python](.\media\CertificateDataStructuresandAlgorithmsinPython480.png){#fig:certificatedatastructuresalgos}
+
+
 
 ### 2. Get into coding challenges
 
@@ -129,36 +135,10 @@ I also worked on other Access solutions and will provide an example of an Access
 
 ---
 
-#  MIT License
-
-                                 MIT License
-                        https://opensource.org/licenses/mit-license.php
-
- 
 
 
+# Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 
+![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](K:/Meine Daten/GitHub/Visualization-of-Data-with-Python/media/by-nc-sa.png)
 
-
-
-
-
-Copyright (c) 2021 Andras Traut
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
